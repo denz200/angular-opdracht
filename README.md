@@ -8,8 +8,8 @@ Hier vind je de code voor RealEstateCare.
 
 ## Compileren voor ontwikkeling
 
-```npm run dev```
+```ng serve```
 
 ## Compileren voor productie
 
-```npm run build```
+```ng build```
